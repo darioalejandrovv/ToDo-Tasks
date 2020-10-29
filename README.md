@@ -1,0 +1,1 @@
+App en Javascript vanilla para el registro y actualización del estado de una tarea. Efectos de transición en CSS.
